@@ -1,0 +1,11 @@
+.App-item-image {
+  width: 100px;
+  padding-top: 5px;
+}
+
+.list-of_apps {
+  list-style-type: none;
+  width: 200px;
+
+  margin: 5px;
+}

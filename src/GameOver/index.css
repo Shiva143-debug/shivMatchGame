@@ -1,0 +1,27 @@
+.re-sc {
+  color: white;
+}
+.g-v {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+}
+.score-board {
+  text-align: center;
+  color: white;
+}
+.bg-container {
+  background-color: black;
+  size: cover;
+  display: flex;
+  justify-content: center;
+}
+.trophy {
+  width: 250px;
+
+  margin-top: 200px;
+}

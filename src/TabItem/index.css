@@ -1,0 +1,16 @@
+.active-tab-btn {
+  border: none;
+  margin: 5px;
+  color: #fec653;
+  border-color: transparent;
+}
+.button {
+  border: none;
+  margin: 5px;
+  background-color: transparent;
+  color: white;
+  border-color: transparent;
+}
+.tab-item-container {
+  list-style-type: none;
+}
